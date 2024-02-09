@@ -6,3 +6,8 @@
   grid-row-gap: 0px;
   image-resolution: 200x200;
   }
+
+img {
+  height: 300px;
+  width: 300px;
+}
